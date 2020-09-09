@@ -1,0 +1,4 @@
+MEAN STACK: conjunto de varios sitemas para contruir un prroyecto a traves de una api rest
+
+lado cliente        +   PETICIONES                        +           LADO SERVIDOR
+    ANGULAR             APIR REST NODEJS Y EXPRESS                  BASE DE DATOS MONGODB
